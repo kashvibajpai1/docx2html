@@ -1,0 +1,2 @@
+[console_scripts]
+docx2html = docx2html.cli:app

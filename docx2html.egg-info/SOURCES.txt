@@ -1,0 +1,17 @@
+pyproject.toml
+docx2html/__init__.py
+docx2html/cli.py
+docx2html/parser.py
+docx2html/renderer_html.py
+docx2html/schema.py
+docx2html/tailwind_mapper.py
+docx2html/utils.py
+docx2html.egg-info/PKG-INFO
+docx2html.egg-info/SOURCES.txt
+docx2html.egg-info/dependency_links.txt
+docx2html.egg-info/entry_points.txt
+docx2html.egg-info/requires.txt
+docx2html.egg-info/top_level.txt
+tests/test_parser.py
+tests/test_renderer.py
+tests/test_schema.py
